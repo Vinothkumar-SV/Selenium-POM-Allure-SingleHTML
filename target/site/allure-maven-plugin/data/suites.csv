@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 23 23:28:44 IST 2026","Mon Mar 23 23:28:45 IST 2026","1199","Suite","Test","testcases.TC001_Login","testcases.TC001_Login","createLeaf","createLeaf","Verify error message for invalid login credentials"
+"passed","Mon Mar 23 23:28:44 IST 2026","Mon Mar 23 23:28:54 IST 2026","10362","Suite","Test","testcases.TC002_CreateLead","testcases.TC002_CreateLead","createLead","createLead","Verify user can create a new lead"
+"passed","Mon Mar 23 23:29:00 IST 2026","Mon Mar 23 23:29:10 IST 2026","9643","Suite","Test","testcases.TC002_CreateLead","testcases.TC002_CreateLead","createLead","createLead","Verify user can create a new lead"
